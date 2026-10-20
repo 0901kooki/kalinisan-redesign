@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Deploy tool folders
+.vercel/
+.netlify/
+
+# Secrets (never commit these)
+.env
+.env.*
+
+# Archives
+*.zip
